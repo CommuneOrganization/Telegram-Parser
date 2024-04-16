@@ -10,18 +10,15 @@
 </p>
 
 <p align="center">
-    <a href="https://stackoverflow.com/users/23589316/sakurajima-mai">
-        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-    <a href="https://www.reddit.com/user/MyMaiSakurajima/">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
-    <a href="https://t.me/MyMaiSakurajima">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://www.twitch.tv/mymaisakurajima">
-        <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
-    <a href="https://steamcommunity.com/id/MyMaiSakurajima/">
-        <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+    <a href="https://t.me/+1uaXH7-nquFjNWJh">
+        <img src="https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=%23000000&labelColor=%23ffffff&color=%23000000"/></a>
+    <a href="https://youtube.com/@communez">
+        <img src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23000000&labelColor=%23ffffff&color=%23000000"/></a>
+    <a href="https://www.tiktok.com/commune_z">
+        <img src="https://img.shields.io/badge/tiktok-white?style=flat&logo=tiktok&logoColor=%23000000&labelColor=%23ffffff&color=%23000000"/></a>
+    <a href="https://twitter.com/commune_z">
+        <img src="https://img.shields.io/badge/twitter-white?style=flat&logo=twitter&logoColor=%23000000&labelColor=%23ffffff&color=%23000000"/></a>
 </p>
-
 
 ## ⚡ Использование скрипта
 
