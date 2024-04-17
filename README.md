@@ -41,9 +41,7 @@ with open('members.csv') as f:
     reader = csv.reader(f)
     for row in reader:
         if count < 5:
-            if row[0] == "":
-                pass
-            else:
+            if row[0] != "":
                 client.send_file(row[0], photo, caption=message)
 
             time.sleep(2)
