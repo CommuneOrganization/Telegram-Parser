@@ -35,6 +35,7 @@
 count = 0
 
 message = '' #Текст сообщения для проспама
+photo = 'photo.png' #Фото для проспама
 
 with open('members.csv') as f:
     reader = csv.reader(f)
@@ -43,7 +44,7 @@ with open('members.csv') as f:
             if row[0] == "":
                 pass
             else:
-                client.send_file(row[0], 'photo.png', caption=message)
+                client.send_file(row[0], photo, caption=message)
 
             time.sleep(2)
             count += 1
