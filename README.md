@@ -34,7 +34,7 @@
 ```python
 count = 0
 
-message = '' #Текст сообщения для проспама
+message = 'text' #Текст сообщения для проспама
 photo = 'photo.png' #Фото для проспама
 
 with open('members.csv') as f:
