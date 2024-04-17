@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-logotip-telegram-na-prozrachnom-fone-21.png" width="100px"/>
+    <img src="https://static.tildacdn.com/tild3562-3164-4038-a135-313766303065/la_telegram.png" width="100px"/>
     <h3 align="center">Telegram Parser</h3>
 </p>
 
@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/twitter-white?style=flat&logo=twitter&logoColor=%23000000&labelColor=%23ffffff&color=%23000000"/></a>
 </p>
 
-## ⚡ Использование скрипта
+## 💀 Использование скрипта
 
 1. Выполняем ```git clone https://github.com/MyMaiSan/Telegram-Parser.git```
 2. Получаем ```api_id``` и ```api_hash``` с помощью https://my.telegram.org/auth
