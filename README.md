@@ -43,7 +43,7 @@ with open('members.csv') as f:
             if row[0] == "":
                 pass
             else:
-                client.send_file(row[0], 'photo.png', caption=message) #Вместо photo.png вставь название своей картинки
+                client.send_file(row[0], 'photo.png', caption=message)
 
             time.sleep(2)
             count += 1
